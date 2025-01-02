@@ -1,0 +1,105 @@
+-- Q1. List all the employee details
+
+-- Q2. List all the department details.
+
+-- Q3. List all job details
+
+-- Q4. List all the locations
+
+-- Q5. List out the First Name, Last Name, Salary, Commission for all Employees
+
+-- Q6. List out the Employee ID, Last Name, Department ID for all employees and alias Employee ID as "ID of the Employee", Last Name as "Name of the Employee", Department ID as "Dep_id"
+
+-- Q7. List out the annual salary of the employees with their names only
+
+-- Q8. List the details about "Smith"
+
+-- Q9. List out the employees who are working in department 20
+
+-- Q10. List out the employees who are earning salary between 2000 and 3000.
+
+-- Q11. List out the employees who are working in department 10 or 20
+
+-- Q12. Find out the employees who are not working in department 10 or 30.
+
+-- Q13. List out the employees whose name starts with 'L'. 
+
+-- Q14. List out the employees whose name starts with 'L' and ends with 'E'.
+
+-- Q15. List out the employees whose name length is 4 and start with 'J'. 
+
+-- Q16. List out the employees who are working in department 30 and draw the salaries more than 2500. 
+
+-- Q17. List out the employees who are not receiving commission. 
+
+-- Q18. List out the Employee ID and Last Name in ascending order based on the Employee ID.
+
+-- Q19. List out the Employee ID and Name in descending order based on salary.
+
+-- Q20. List out the employee details according to their Last Name in ascending-order
+
+-- Q21. List out the employee details according to their Last Name in ascending order and then Department ID in descending order
+
+-- Q22. List out the department wise maximum salary, minimum salary and average salary of the employees
+
+-- Q23. List out the job wise maximum salary, minimum salary and average salary of the employees
+
+-- Q24. List out the number of employees who joined each month in ascending order
+
+-- Q25. List out the number of employees for each month and year in ascending order based on the year and month.
+
+-- Q26. List out the Department ID having at least four employees
+
+-- Q27. How many employees joined in February month
+
+-- Q28. How many employees joined in May or June month
+
+-- Q29. How many employees joined in 1985
+
+-- Q30. How many employees joined each month in 1985
+
+-- Q31. How many employees were joined in April 1985
+
+-- Q32. Which is the Department ID having greater than or equal to 3 employees joining in April 1985
+
+-- Q33. List out employees with their department names
+
+-- Q34. Display employees with their designations
+
+-- Q35. Display the employees with their department names and city
+
+-- Q36. How many employees are working in different departments? Display with department names
+
+-- Q37. How many employees are working in the sales department
+
+-- Q38. Which is the department having greater than or equal to 3 employees and display the department names in ascending order
+
+-- Q39. How many employees are working in 'Dallas'
+
+-- Q40. Display all employees in sales or operation departments
+
+-- Q41. Display the employee details with salary grades. Use conditional statement to create a grade column
+
+-- Q42. List out the number of employees grade wise. Use conditional statement to create a grade column
+
+-- Q43. Display the employee salary grades and the number of employees between 2000 to 5000 range of salary
+
+-- Q44. Display the employees list who got the maximum salary
+
+-- Q45. Display the employees who are working in the sales department
+
+-- Q46. Display the employees who are working as 'Clerk'
+
+-- Q47. Display the list of employees who are living in 'Boston'
+
+-- Q48. Find out the number of employees working in the sales department
+
+-- Q49. Update the salaries of employees who are working as clerks on the basis of 10%.
+
+-- Q50. Display the second highest salary drawing employee details
+
+-- Q51. List out the employees who earn more than every employee in department 30
+
+-- Q52. Find out which department has no employees
+
+-- Q53. Find out the employees who earn greater than the average salary for their department
