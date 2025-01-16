@@ -9,4 +9,10 @@
 
 ### Overall this can be a best way to enhance your SQL skills 
 
-![image alt] (https://github.com/mdadnan-dev/SQL_Case_Study/blob/09bb3b3b81cc74fff8134f235c1dd7f58a5dad95/screenshots/Screenshot%202025-01-15%20144834.png)
+### Steps to Import a File 
+- Go to the Database that you have created [Right Click on it]
+- Select Tasks
+- Import Flat File 
+![image alt](https://github.com/mdadnan-dev/SQL_Case_Study/blob/09bb3b3b81cc74fff8134f235c1dd7f58a5dad95/screenshots/Screenshot%202025-01-15%20144834.png)
+
+![image alt]
